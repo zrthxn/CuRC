@@ -1,0 +1,6 @@
+numpy 
+opencv-python 
+matplotlib 
+matplotlib-inline 
+scikit-image
+numpy-stl
