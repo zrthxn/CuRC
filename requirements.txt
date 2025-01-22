@@ -1,6 +1,9 @@
 numpy 
+torch
 opencv-python 
 matplotlib 
 matplotlib-inline 
+scikit-learn
 scikit-image
 numpy-stl
+torchvision
